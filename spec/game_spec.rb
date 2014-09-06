@@ -38,3 +38,17 @@ describe Game do
 	end
 
 end
+
+
+
+def check_sign(number)
+  if number > 0
+    "#{number} is positive"
+  elsif number == 0
+  	puts "0"
+   else "#{number} is negative"
+    
+    
+  end        
+end
+
