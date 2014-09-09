@@ -4,10 +4,10 @@
 	/* transform: rotate(90deg); */
 	width: 270px;
 	height: 270px;
-	position: fixed;
+	position: absolute;
   	top: 50%;
- 	 left: 50%;
- 	 transform: translate(-50%, -50%);
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
 }
 
 
