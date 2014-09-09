@@ -44,8 +44,8 @@ input {
 	text-align: center;
 	font-size: 50px;
 	border: 2px solid;
-  border-radius: 25px;
-  box-shadow: 0
+  	border-radius: 25px;
+ 	box-shadow: 0
 
 }
 
@@ -53,6 +53,7 @@ button {
 	font-size: 25px;
 	background-color: white;
 	border: 0;
+	text-align: center;
 }
 
 
