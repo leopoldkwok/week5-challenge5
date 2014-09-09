@@ -7,3 +7,12 @@
 	width: 270px;
 	height: 270px;
 }
+
+input {
+	text-align: center;
+	font-size: 50px;
+	border: 2px solid;
+  border-radius: 25px;
+  box-shadow: 0
+
+}
