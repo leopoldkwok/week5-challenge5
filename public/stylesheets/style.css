@@ -1,7 +1,7 @@
 .r_p_s {
 	float: left;
 	margin: auto;
-	transform: rotate(90deg);
+	/* transform: rotate(90deg); */
 	width: 270px;
 	height: 270px;
 }
