@@ -60,4 +60,6 @@ img {
 	transform: rotate(90deg);
 	width: 270px;
 	height: 270px;
+	left:-50%;
+position:relative;
 }
