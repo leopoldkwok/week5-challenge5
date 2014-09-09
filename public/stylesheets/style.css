@@ -55,11 +55,11 @@ img {
 }
 
 .r_p_s {
-	float: left;
+	float: center;
 	margin: auto;
 	transform: rotate(90deg);
 	width: 270px;
 	height: 270px;
-	left:-50%;
+	
 position:relative;
 }
