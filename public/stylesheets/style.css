@@ -1,8 +1,8 @@
 
 h1 {
-
-	p.solid {border-style: solid;}
 	text-shadow: 5px 5px 5px #FF0000;
+	p.solid {border-style: solid;}
+
 }
 
 body {
