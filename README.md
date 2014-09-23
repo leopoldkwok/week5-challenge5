@@ -21,7 +21,6 @@ Web production version of my app is available here: http://http://shrouded-cliff
 
 
 ####**New Relic Dashboard**
-=======
 The web production version is connected to the New Relic's real time application to monitor and give actionable insight as shown below: 
 ![](https://github.com/leopoldkwok/week5-challenge5/blob/master/public/images/new_relic_screenhot.png)
 
