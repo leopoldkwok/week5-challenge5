@@ -14,3 +14,6 @@ After you have deployed it to heroku, add NewRelic add-on to the production envi
 Yes, you guessed right. Make your application beautiful! It’s always nice to have an app that not only works nicely, but also looks good!
 
 Web production version of my app is available here: http://http://shrouded-cliffs-2337.herokuapp.com/
+
+
+![](https://github.com/leopoldkwok/week5-challenge5/blob/master/public/images/new_relic_screenhot.png)
