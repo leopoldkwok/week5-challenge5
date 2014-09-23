@@ -20,7 +20,8 @@ Web production version of my app is available here: http://http://shrouded-cliff
 
 
 
-<<<<<<< HEAD
+####**New Relic Dashboard**
 =======
+The web production version is connected to the New Relic's real time application to monitor and give actionable insight as shown below: 
 ![](https://github.com/leopoldkwok/week5-challenge5/blob/master/public/images/new_relic_screenhot.png)
->>>>>>> 3185eb699637d9bd7ac05365089e0d0eea73da85
+
