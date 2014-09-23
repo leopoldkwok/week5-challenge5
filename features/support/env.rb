@@ -21,6 +21,3 @@ World do
   RockPaperScissorsWorld.new
 end
 
-configure :production do
-  require 'newrelic_rpm'
-end
