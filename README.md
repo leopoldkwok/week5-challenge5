@@ -1,4 +1,4 @@
-####**Challenge 5 - Rock, Paper and Scissors**
+####**Challenge 5 - Rock, Paper and Scissors** 
 Create a rock, paper, scissors game that you can play in your browser.
 
 ####**Level 1**
