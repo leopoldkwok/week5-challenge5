@@ -1,3 +1,5 @@
+[![Test Coverage](https://codeclimate.com/github/leopoldkwok/week5-challenge5/badges/coverage.svg)](https://codeclimate.com/github/leopoldkwok/week5-challenge5)
+
 ####**Challenge 5 - Rock, Paper and Scissors** 
 Create a rock, paper, scissors game that you can play in your browser.
 

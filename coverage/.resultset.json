@@ -1,0 +1,46 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/leopoldkwok/Google Drive/makersacademy/challenges/challenge5/rockpaperscissors/lib/game.rb": [
+        1,
+        null,
+        1,
+        5,
+        5,
+        5,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        4,
+        3,
+        1,
+        null,
+        null,
+        1,
+        6,
+        null,
+        null
+      ],
+      "/Users/leopoldkwok/Google Drive/makersacademy/challenges/challenge5/rockpaperscissors/lib/player.rb": [
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1415981113
+  }
+}
